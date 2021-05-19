@@ -2,19 +2,13 @@
 ![FACEBOOK CRACKER](https://github.com)
 ## How to install
 
-```
-apt-get update -y && apt-get upgrade -y
-apt-get install git -y
-apt-get install python -y
-git clone 
-cd facebook-cracker
-pip install requests bs4
-python mbf.py
+``
+
 ```
 ## If you don't have a data to access internet
 ## Trying 
 ```
-python mbf.py free
+
 ```
 
 # Features
