@@ -1,12 +1,12 @@
 # FACEBOOK CRACKER
-![FACEBOOK CRACKER](https://github.com/zettamus/facebook-cracker/blob/master/mbf.jpg?raw=true)
+![FACEBOOK CRACKER](https://github.com)
 ## How to install
 
 ```
 apt-get update -y && apt-get upgrade -y
 apt-get install git -y
 apt-get install python -y
-git clone https://github.com/zettamus/facebook-cracker
+git clone 
 cd facebook-cracker
 pip install requests bs4
 python mbf.py
